@@ -1,4 +1,4 @@
-                                          Ćwiczenie 2
+                                                        Ćwiczenie 2
 
 
 
