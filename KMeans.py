@@ -43,7 +43,6 @@ if __name__ == '__main__':
     cyan = labels == 2
 
     fig_2 = plt.figure()
-    plt.title('Points scattering in 3D')
     ax_2 = fig_2.add_subplot(projection='3d')
     plt.title('Points scattering in 3D')
     ax_2.scatter(p[red, 0], p[red, 1], p[red, 2], marker='o')
